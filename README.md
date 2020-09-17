@@ -21,4 +21,4 @@ Resources:
 - Dataset: 	COVID-19 Radiography Database
 - Dataset Source: https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
 
-- RSlide Template: 	SlidesGo Coronavirus Disease
+- Slide Template: 	SlidesGo Coronavirus Disease
