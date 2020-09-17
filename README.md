@@ -14,11 +14,11 @@ Working Process of the project:
 
 Resources:
 
-Research Paper: Can AI Help in Screening Viral and COVID-19 Pneumonia? IEEE Access, Vol. 8, 2020, pp. 132665-132676
-Research paper Link: https://ieeexplore.ieee.org/document/9144185
+- Research Paper: Can AI Help in Screening Viral and COVID-19 Pneumonia? IEEE Access, Vol. 8, 2020, pp. 132665-132676
+- Research paper Link: https://ieeexplore.ieee.org/document/9144185
 
 
-Dataset: 	COVID-19 Radiography Database
-Dataset Source: https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
+- Dataset: 	COVID-19 Radiography Database
+- Dataset Source: https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
 
-Slide Template: 	SlidesGo Coronavirus Disease
+- RSlide Template: 	SlidesGo Coronavirus Disease
