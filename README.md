@@ -4,12 +4,12 @@ Warning: This Project is for Educational Purpose. Diagnosing COVID-19 Patient is
 
 Working Process of the project:
 
-> Splitting Dataset into Train Data & Test Data
-> Custom Dataset Preparation using PyTorch
-> Image Transformation
-> Data Loader Preparation using PyTorch
-> Resnet18 Model Modification
-> Model Training and Accuracy Calculation
+- Splitting Dataset into Train Data & Test Data
+- Custom Dataset Preparation using PyTorch
+- Image Transformation
+- Data Loader Preparation using PyTorch
+- Resnet18 Model Modification
+- Model Training and Accuracy Calculation
 
 
 Resources:
